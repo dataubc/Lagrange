@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Mohammed Salama"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Combining the rigorousness of engineering and the deep insights of data science, the love of philosophy and the passion for story telling, I am a multipotentialite with eagerness for knowledge who is looking for the next opportunity to harvest his rich experience and skills to create, design, analyze , initiate, play, share and change the world into a better place for all.
+
+I am currently pursuing a master of data science at The University of British Columbia.
+
