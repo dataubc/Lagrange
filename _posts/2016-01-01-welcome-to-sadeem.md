@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Sadeem!"
+title: "Hello world!"
 author: "Mohammed Salama"
 categories: journal
 tags: [documentation,sample]
