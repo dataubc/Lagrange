@@ -14,3 +14,5 @@ from its initial value is expressed by what is called conditional probability.
 `Conditional probability` is about finding how a new relative information can change the value of initial probability of something happening. In the example above the probability that Sam attends the game has changed after a new information came to light. Let’s try another example , but now we will see how a new information would change the probability that you attend the game. You were trying to find the chance that another one would come with you to the game assuming that the chance that you attend the game is 100%.
 The conditional probability is like the chance that you go to the game knowing that the best player in the team had an injury . This new information means that you expect there will be less chance that you go to the game, and hence you don’t really enjoy watching your favorite team losing, there is less chance that you would attend the game. The information that you have got has changed the chance that you attend the game.
 
+[1](https://www.facebook.com/watch/?v=430492497484549)
+
