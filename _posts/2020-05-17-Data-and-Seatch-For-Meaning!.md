@@ -18,5 +18,5 @@ Data is all about collecting signals from appearances to get as close as possibl
 But why we need the data to get knowledge, can't we just observe reality. Some times we are lucky and we could do that. For example, one could raoughly calculate the accelration of gravity by meauring the distances/speed of fall travelled by a falling object. But in many instances,  it could be either immpossible or impractical to observe all the variables needed to find the "reality" we seek. Hence, we try to recreate this reality using a mahemtical model. The first thing we should know about model that they are all wrongs, but some are usefull as well put by statistician George Box. Great deal of data science is about creating and interpeting models. Models are useful not only becuase they could tell us something about what the "reality" looks like now, but also because it allows to predict what they reality could look like in the future.
 
 References :
-[^1]Frankl, Viktor E. Man's search for meaning. Simon and Schuster, 1985.
+[1]Frankl, Viktor E. Man's search for meaning. Simon and Schuster, 1985.
 
