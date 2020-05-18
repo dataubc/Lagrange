@@ -8,7 +8,7 @@ image: blind.jpg
 ---
 
 <center>
-[Image source](https://www.researchgate.net/publication/50392294_Re-thinking_Enrolment_in_Identity_Card_Schemes/figures)
+[![Image source]](https://www.researchgate.net/publication/50392294_Re-thinking_Enrolment_in_Identity_Card_Schemes/figures)
 </center>
 
 
