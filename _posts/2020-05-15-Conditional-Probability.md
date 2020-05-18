@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "conditional Probability"
+title: "Conditional Probability"
 author: "Mohammed Salama"
 categories: journal
 tags: [documentation,sample]
-image: conditional.png
+image: cond.jpg
 ---
 To take any decision in life, we need information. Based on the information we have we will choose one alternative over the others. However, often when we get a new information, we go back and choose a different alternative than the one we chose before. The conditional probability is analogous to the process we do when we revise a decision if new information is provided.
 
