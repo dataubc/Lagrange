@@ -4,9 +4,9 @@ title: "Data and Man search for truth!"
 author: "Mohammed Salama"
 categories: journal
 tags: [documentation,sample]
-image: snow.jpg
-[source](https://www.researchgate.net/publication/50392294_Re-thinking_Enrolment_in_Identity_Card_Schemes/figures)
+image: blind.jpg
 ---
+[source](https://www.researchgate.net/publication/50392294_Re-thinking_Enrolment_in_Identity_Card_Schemes/figures)
 The title is borrowed from the great book Man's Search for Meaning by Viktor Frankl. In this post, I am trying to shed light on how data could be used to help us find truth about the world.
 
 It is always been said that data science is about turning data into knowledge about the world but what we mean by that. We know from my favourite philosopher Kant that the world exists in isolation from what we think about it. Kant differentiates between two concepts: Things in themselves "what they are" and their appearances" what they appear to be".  
