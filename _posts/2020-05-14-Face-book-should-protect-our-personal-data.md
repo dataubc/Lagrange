@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Facebook and our privacy!"
+title: "Facebook should protect our data!"
 author: "Mohammed Salama"
 categories: journal
 tags: [documentation,sample]
