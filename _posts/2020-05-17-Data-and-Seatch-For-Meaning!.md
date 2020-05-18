@@ -7,10 +7,11 @@ tags: [documentation,sample]
 image: blind.jpg
 ---
 
-<center>
-[![Image source]](https://www.researchgate.net/publication/50392294_Re-thinking_Enrolment_in_Identity_Card_Schemes/figures)
-</center>
+[Image source](https://www.researchgate.net/publication/50392294_Re-thinking_Enrolment_in_Identity_Card_Schemes/figures)
 
+```{r}
+print('hello')
+```
 
 The title is borrowed from the great book Man's Search for Meaning by Viktor Frankl^[1]. In this post, I am trying to shed light on how data could be used to help us find truth about the world.
 
