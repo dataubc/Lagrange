@@ -21,6 +21,8 @@ But how is using data to answer questions is different from other methods, can't
 
 But how do we know that our model is valid. We need an evaluation metric that measure how close our model to the truth, this could done by testing our model performance and compare it with the real results. Often we need to go back and modify our model until we are satisfied with the results. We could modify the model by adjusting its parameters.
 
+![an image caption Source: Ultimate Funny Dog Videos Compilation 2013.](../assets/img/oh_no.png)
+
 In summary, data science could help us turn the data into meaningful knowledge by offering the possibility of building interpretable models that are close to reality as possible. Data scientist save time and cost and even lives by testing different scenarios first on these models and predict their consequences before applying them in real life.
 
 References :
