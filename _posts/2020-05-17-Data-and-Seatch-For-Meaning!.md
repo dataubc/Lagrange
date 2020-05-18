@@ -7,9 +7,8 @@ tags: [documentation,sample]
 image: blind.jpg
 ---
 
-![](blind.jpg)
-
-[your image caption](https://www.researchgate.net/publication/50392294_Re-thinking_Enrolment_in_Identity_Card_Schemes/figures)
+</center>
+[Image source](https://www.researchgate.net/publication/50392294_Re-thinking_Enrolment_in_Identity_Card_Schemes/figures)
 
 </center>
 
