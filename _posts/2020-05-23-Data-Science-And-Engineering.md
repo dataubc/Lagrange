@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data science engineering"
+title: "Are you changing career to data science"
 author: "Mohammed Salama"
 categories: journal
 tags: [documentation,sample]
