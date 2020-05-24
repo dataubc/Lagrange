@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: big.jpg
 ---
 
-[Big Data Prob," by Kaml Phuc, via Flicker.com (Creative Commons License)](https://iabcphiladelphia.org/10-ways-to-turn-social-media-data-into-smart-data/)
+[Image by Kaml Phuc, via Flicker.com (Creative Commons License)](https://iabcphiladelphia.org/10-ways-to-turn-social-media-data-into-smart-data/)
 
 It is not unusual to read posts with titles such as " How I moved from engineering to data science" or " How I changed my career from finance to data science". However, I want to argue that data science is not a job /career, and rather it is a way of thinking, a tool and technology.
 
