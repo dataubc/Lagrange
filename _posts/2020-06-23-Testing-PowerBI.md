@@ -14,7 +14,7 @@ To contribute to the effort towards the prevention of accidental death overdose 
 Here, I am sharing a new visualization for the same data using Power BI. The user can select to filter the data using the race of the victim and the location of death.
 
 
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=a72a12cf-1b35-490c-aae1-78a67d677db4&autoAuth=true&ctid=718b8a9b-44d8-441a-a344-4294ea842172&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="960" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=a72a12cf-1b35-490c-aae1-78a67d677db4&autoAuth=true&ctid=718b8a9b-44d8-441a-a344-4294ea842172&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
