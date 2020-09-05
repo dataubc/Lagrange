@@ -4,7 +4,7 @@ title: "Data Science for Small Businesses:understanding risks through external d
 author: "Mohammed Salama"
 categories: journal
 tags: [documentation,sample]
-image: big.jpg
+image: small_business_data_scice.jpg
 ---
 
 Image by Ed Yourdon,licensed under CC BY-NC-SA 2.0
